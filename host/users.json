@@ -1,0 +1,14 @@
+{
+  "AlliFF121": {
+    "password": "932f3c1b56257ce8539ac269d7aab42550dacf8818d075f0bdf1990562aae3ef",
+    "created_at": "2026-03-20T00:00:00Z",
+    "last_login": null,
+    "is_admin": true,
+    "created_by_admin": true,
+    "created_by": null,
+    "max_bots": 999,
+    "expires_at": null,
+    "clan_feature_enabled": true,
+    "custom_apis": null
+  }
+}
